@@ -1,0 +1,88 @@
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+.header{
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    height: 10vh;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    width: 100%;
+}
+.listItem ul{
+    list-style: none;
+    display: flex;
+    margin-left: 40px;
+    align-items: center;
+}
+.listItem ul li {
+    margin: 0 15px;
+    font-weight: bold;
+    position: relative;
+}
+.listItem ul li a:hover::after{
+    content: '';
+    width: 60%;
+    height: 2px;
+    background-color: black;
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+}
+.header .sign ul{
+    list-style: none;
+    display: flex;
+    margin-right: 40px;
+}
+.header .sign ul li{
+    margin: 0 15px;
+    font-weight: bold;
+}
+.mobile{
+    display: none;
+    margin: 0 15px;
+}
+#bar {
+    font-size: 22px;
+    cursor: pointer;
+    color: black;
+}
+
+@media screen and (max-width:769px){
+    .listItem.active ul{
+        left: 0 !important;
+        
+   }
+    .listItem ul{
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        margin-left: 0;
+        align-items: center;
+        justify-content: center;
+        justify-content: flex-start;
+        position: fixed;
+        top: 70px;
+        left: -400px;
+        width: 300px;
+        height: 100vh;
+        background: #fff;
+        box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+        padding: 40px 0 0 10px;
+        transition: .3s ease-in-out;
+   }
+    .listItem ul li{
+        margin: 2rem 1rem;
+   }
+    .mobile{
+        display: block !important;
+        margin-left: 40px;
+   }
+   
+}

@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+section{
+    margin-top: 2rem;
+    width: 300px;
+    padding: 0 20px;
+}
+section h2{
+    margin-bottom: 10px;
+
+}
+.borderSection{
+    border-right: 2px solid #A9A9A9;
+}
+
+
+
+
+
+@media screen and (max-width:769px){
+    .borderSection{
+        border-right: none;
+        margin-top: 30px;
+    }
+}

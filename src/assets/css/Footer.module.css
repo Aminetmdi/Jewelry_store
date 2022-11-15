@@ -1,0 +1,35 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: #2C3639; 
+    color: #fff;
+    font-weight: bold;
+    margin-top: 6rem;
+    flex-wrap: wrap;
+}
+.footer ul{
+    list-style: none;
+}
+form input.email{
+    background: transparent;
+    border-right: none !important;
+    padding: 10px;
+    outline: none;
+    border: 1px solid #fff;
+    color: #fff;
+    margin-top: 1rem;
+}
+form input.btn{
+    background: transparent;
+    border-left: none !important;
+    padding: 10px;
+    border: 1px solid #fff;
+    color: #fff;
+    cursor: pointer;
+}
+section ul{
+    line-height: 40px;
+}
+.form_section{
+    line-height: 30px;
+}

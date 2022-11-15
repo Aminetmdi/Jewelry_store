@@ -1,0 +1,181 @@
+{
+    "posts":[
+        {
+            "id": 1,
+            "img" : "https://i.ibb.co/y6VGyK7/1.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 599",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 2,
+            "img": "https://i.ibb.co/XzmwfRd/2.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 699",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 3,
+            "img": "https://i.ibb.co/Lk44KKM/3.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 399",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 4,
+            "img": "https://i.ibb.co/6bCCHqD/4.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 1999",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 5,
+            "img": "https://i.ibb.co/1mNQBPM/5.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 1399",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 6,
+            "img": "https://i.ibb.co/xJRBSBT/6.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 1899",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 7,
+            "img": "https://i.ibb.co/ZHTXpTD/7.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 1499",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 8,
+            "img": "https://i.ibb.co/qjQSFH7/8.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 1199",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 9,
+            "img": "https://i.ibb.co/S3Pc1Gd/9.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 1799",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 10,
+            "img": "https://i.ibb.co/R3tgBJy/14.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 1299",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 11,
+            "img": "https://i.ibb.co/NrG4QYX/11.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 999",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 12,
+            "img": "https://i.ibb.co/NjFM34h/12.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 899",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 13,
+            "img": "https://i.ibb.co/8bkDZks/13.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 499",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 14,
+            "img": "https://i.ibb.co/R3tgBJy/14.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 2199",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 15,
+            "img": "https://i.ibb.co/NyddtqZ/15.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 700",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 16,
+            "img": "https://i.ibb.co/2K9KX6N/16.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 499",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 17,
+            "img": "https://i.ibb.co/DgRTJNd/17.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 1999",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 18,
+            "img": "https://i.ibb.co/JzTjvkr/18.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 1599",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 19,
+            "img": "https://i.ibb.co/hs7zLMk/19.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 999",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 20,
+            "img": "https://i.ibb.co/NjFM34h/12.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 699",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 21,
+            "img": "https://i.ibb.co/ZHh91Mt/21.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 399",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        },
+        {
+            "id": 22,
+            "img": "https://i.ibb.co/jJD8qs1/22.jpg",
+            "btn": "ADD TO CART",
+            "desc": "Gold Surgical Steel Flower Flat Back Earring 3 Pack",
+            "price": "$ 699",
+            "rate": "https://i.ibb.co/L86HNZp/stars.png"
+        }
+        
+    ]
+}

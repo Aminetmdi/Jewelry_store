@@ -1,0 +1,68 @@
+.card{
+    width: 250px;
+    border-radius: 40px 40px 0 0;
+    margin:  1.40rem 0;
+}
+
+
+.card .cardImg{
+    width: 100%;
+    height: 250px;
+    border-radius: 40px 40px 0 0;
+}
+.cardTitle{
+    border-radius: 40px 40px 0 0;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.cardTitle:hover{
+    cursor: pointer;
+    transition: ease-in-out .4s;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;}
+
+
+.card .btn{
+    width: 100%;
+    height: 45px;
+    background-color: #1B2430;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+}
+.card .stars img{
+    width: 100px;
+    height: 20px;
+}
+.card .stars span{
+    vertical-align: 4px;
+    font-weight: bold;
+}
+.textBox{
+    padding: 10px 5px;
+}
+.textBox .desc{
+    margin-top: 5px;
+    font-size: 13.5px;
+}
+.textBox .price{
+    margin: 10px 0;
+    font-weight: bold;
+}
+.counter{
+    display: flex;
+    align-items: center;
+    float: right;
+}
+.counter img{
+    width: 20px;
+    margin: 0 10px;
+    height: 15px;
+    cursor: pointer;
+}
+.counter span{
+    font-weight: bold;
+}
+.deactive {
+    opacity: 0.3;
+}
